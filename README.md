@@ -127,11 +127,14 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 [github issues]: https://github.com/MatrixTM/MHDDoS/issues "enter"
 
 ---
-
 ## Author
 
 👤 **Eizy**
 
-- Website: http://bufgix.space
+- Instagram: [@kak.ezy](https://instagram.com/kak.ezy)
 - Twitter: [@kakezy](https://twitter.com/kakezy)
-- Github: [@kak.ezy](https://github.com/kak.ezy)
+- Github: [@Adiardiansah](https://github.com/Adiardiansah)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
